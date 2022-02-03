@@ -1,3 +1,3 @@
 # Python Money converter
 
-The Python code has VND to USD, USD to EUR converter
+Money Converter code rewrite. This time you can modify the .json file to change the converting value
